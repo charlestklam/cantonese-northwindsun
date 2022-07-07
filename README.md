@@ -16,13 +16,15 @@ The text of the read-aloud task is an adaptation of the Cantonese "The North Win
 8. 跟住，太陽出嚟晒咗一陣，嗰個人就即刻除咗件褸嘞。 
 9. 於是，北風唯有認輸啦。
 
-
 # Data Collection
 
-- The data set contains speech data and text grid segmentation (down to the syllables) of 12 university students, who are all native speakers of Cantonese.  
+- The data set contains speech data and text grid segmentation (down to the syllables) of 12 university students at the Hang Seng University of Hong Kong, who are all native speakers of Hong Kong Cantonese.  
 
 - The speech data were collected in March-April, 2022. Participants were asked to read aloud the paragraph and save each of the nine sentences in separate files. 
 
 - The file participants.tsv contains the demographic information of the participants, including the assigned participant_id, age, and gender. None of the participants reported any history of speech and language impairments. 
 
 - Written consent was obtained from all participants. 
+
+# License 
+The data set is released on CC BY 4.0. Please refer to the license document for further details. 
