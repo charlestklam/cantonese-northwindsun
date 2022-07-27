@@ -2,6 +2,8 @@
 
 Speech data with Praat TextGrid files 
 
+[![DOI](https://zenodo.org/badge/508894912.svg)](https://zenodo.org/badge/latestdoi/508894912)
+
 # Read-Aloud Task
 
 The text of the read-aloud task is an adaptation of the Cantonese "The North Wind and the Sun" in Zee 1991 (https://doi.org/10.1017/S0025100300006058). The text is presented in Cantonese text as the following: 
